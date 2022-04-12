@@ -36,8 +36,8 @@ python predict.py -f [file_path]
 
 First, we should save all titles as a file, then use the above command.
 
-e.g. We save all titles in `title.txt`
+e.g. We save all titles in `test.txt`
 
 ```
-python predict.py -f title.txt
+python predict.py -f test.txt
 ```
