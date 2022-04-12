@@ -8,6 +8,7 @@ git clone https://github.com/Xungerrrr/AI-PM-Team-4
 ```
 
 ### 2. Install all requirements
+Python environments: 3.8.9
 ```
 pip install -r requirement.txt
 ```
