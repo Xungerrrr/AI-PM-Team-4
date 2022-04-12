@@ -25,7 +25,7 @@ python predict.py -t [title]
 ```
 e.g.
 ```
-python predict.py -t Why does velocity affect time? Does velocity affect space geometry?
+python predict.py -t "Why does velocity affect time? Does velocity affect space geometry?"
 ```
 
 2. Predict multiple titles
